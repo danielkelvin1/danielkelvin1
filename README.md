@@ -1,5 +1,11 @@
-### Hi there 👋
+### Halo Semua 👋
 
+Perkenalkan nama saya **Daniel Kelvin.T**.
+
+Saya seorang **Mahasiswa** di Universitas Nusamandiri.
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/daniel-kelvin-t-2419b5201/) ku ya.
 <!--
 **danielkelvin1/danielkelvin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
